@@ -1,0 +1,47 @@
+.formcontrol {
+  width: 100% !important;
+  text-align: center;
+  text-transform: inherit !important;
+  border: none !important;
+  border-color: inherit !important;
+  outline: 0;
+  background-color: #1a2226 !important;
+  color: #ecf0f5 !important;
+  border-bottom: 2px solid #0db8de !important;
+}
+
+.container {
+  top: 10vh !important;
+  position: relative;
+  width: 35% !important;
+  padding: 5% !important;
+  border: 1px solid;
+  border-radius: 5px !important;
+  background-color: #1a2226 !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+button {
+  color: #ecf0f5 !important;
+  width: 100% !important;
+  margin-right: 100px !important;
+  margin-top: 5% !important;
+}
+.check {
+  color: #ecf0f5;
+}
+h3 {
+  white-space: nowrap;
+  font-weight: 100;
+  color: #0db8de;
+  text-align: center;
+}
+.icon {
+  color: #0db8de;
+}
+.MuiSvgIcon-root {
+  min-width: 100% !important;
+  min-height: 50px !important;
+  max-height: 150px !important;
+  margin-bottom: 10px !important;
+}
